@@ -1,0 +1,7 @@
+%suatu petani didaerah tertentu ingin mengetahui potensi cabai terbaik yang
+%akan ditanamnya pada periode mendatang berdasarkan data pengalamannya
+%dalam menanam 4 jenis cabai dengan jumlah bibit dan lokasi yang sama
+%berdasarkan INTENSITAS PUPUK(kg), HASIL PANEN(kg), dan TERJUAL(kg) dengan
+%data sebagai berikut :
+
+namaCabai = {'Cabai Rawit'}
